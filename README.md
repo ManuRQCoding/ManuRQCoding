@@ -2,7 +2,7 @@
 
 ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fmanolooo349)
 
-### Main Skills(more details on linkedin):
+### Hard Skills:
 ![Flutter](https://img.shields.io/badge/Flutter-0095D5?style=for-the-badge&logo=flutter&logoColor=white&labelColor=101010)</br>
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)</br>
 
