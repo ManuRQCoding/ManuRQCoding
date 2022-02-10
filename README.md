@@ -21,5 +21,5 @@
 
 </br>
 
-![Unity](https://img.shields.io/badge/Unity-?style=for-the-badge&logo=unity&logoColor=white&labelColor=101010)
+![Unity](https://img.shields.io/badge/Unity-101010?style=for-the-badge&logo=unity&logoColor=white&labelColor=101010)
 
