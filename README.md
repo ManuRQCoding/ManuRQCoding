@@ -1,7 +1,7 @@
 ## Redes sociales
 
 [![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fmanolooo349)](https://twitter.com/manolooo349) 
-[![Youtube URL](https://img.shields.io/twitter/url?style=social&logo=youtube&url=https%3A%2F%2Fyoutube.com%2channel%2UC_T2aG74JiRztPgLh0OPmVA)](https://www.youtube.com/channel/UC_T2aG74JiRztPgLh0OPmVA)
+[![Youtube URL](https://img.shields.io/youtube/url?style=social&logo=youtube&url=https%3A%2F%2Fyoutube.com%2channel%2UC_T2aG74JiRztPgLh0OPmVA)](https://www.youtube.com/channel/UC_T2aG74JiRztPgLh0OPmVA)
 
 
 
