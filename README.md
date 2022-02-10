@@ -1,5 +1,4 @@
-## Redes sociales
-
+## Redes sociales:
 
 [![Twitter URL](https://img.shields.io/badge/Twitter-61DAFB?style=social&logo=twitter&url=https%3A%2F%2Ftwitter.com%2Fmanolooo349)](https://twitter.com/manolooo349) 
 [![Youtube URL](https://img.shields.io/badge/Youtube-61DAFB?style=social&logo=youtube&url=https%3A%2F%2Fyoutube.com%2channel%2UC_T2aG74JiRztPgLh0OPmVA)](https://www.youtube.com/channel/UC_T2aG74JiRztPgLh0OPmVA)
@@ -23,9 +22,13 @@
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring-aws&logoColor=white&labelColor=101010)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=101010)
 ![Docker](https://img.shields.io/badge/Docker-3776AB?style=for-the-badge&logo=docker&logoColor=white&labelColor=101010)
-
-
 </br>
+
 
 ![Unity](https://img.shields.io/badge/Unity-232F3E?style=for-the-badge&logo=unity&logoColor=white&labelColor=101010)
 
+
+
+## Sobre mí:
+
+Me considero una persona que está constantemente intentando superarse a sí misma, aprendiendo nuevas tecnologías, nuevas metodologías... Y aunque suene a tópico, realmente soy muy creativo y curioso, aveces puedo llegar a resultar obsesivo con el diseño de mis aplicaciones(cada píxel importa), además, siempre intento observar ideas de aplicaciones grandes y como podría implementarlas en uno de mis proyectos.
