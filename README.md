@@ -7,12 +7,12 @@
 
 ## Hard Skills:
 ![Flutter](https://img.shields.io/badge/Flutter-0095D5?style=for-the-badge&logo=flutter&logoColor=white&labelColor=101010)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)</br>
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white&labelColor=101010)</br>
 
 
 ![Java](https://img.shields.io/badge/Java-FF0000?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white&labelColor=101010)
-![TypeScript](https://img.shields.io/badge/TypeScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white&labelColor=101010)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white&labelColor=101010)
 </br>
 
 
