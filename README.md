@@ -30,4 +30,4 @@
 
 ## Sobre mí:
 
-Me considero una persona que está constantemente intentando superarse a sí misma, aprendiendo nuevas tecnologías, nuevas metodologías... Y aunque suene a tópico, realmente soy muy creativo y curioso, aveces puedo llegar a resultar obsesivo con el diseño de mis aplicaciones(cada píxel importa), además, siempre intento observar ideas de aplicaciones grandes y como podría implementarlas en uno de mis proyectos.
+Me apasiona el mundo de el desarrollo y siempre estoy dispuesto a aprender nuevas tecnologías, Flutter es el framework que mejor manejo y con el cuál mayor cantidad de proyectos he tanto desarrollado como desplegado en las correspondientes tiendas de IOS y Android, y que por lo tanto lo considero mi fuerte principal en cuanto a tecnologías, destacaría de mí que soy alguien muy creativo y que nunca se rinde ante las adversidades y/o resolución de problemas.
